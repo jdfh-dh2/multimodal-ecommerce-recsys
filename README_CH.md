@@ -160,16 +160,3 @@ report = evaluator.evaluate(metrics=['ctr', 'cvr', 'gmv'])
 ## 📝 许可证
 
 MIT许可证 - 详见LICENSE文件。
-
-## 🙏 致谢
-
-本项目参考了以下架构：
-- NVIDIA Merlin Transformers4Rec
-- 腾讯ESMM
-- 阿里巴巴DIN
-- 谷歌MMoE
-
----
-
-**作者**: fish-fly-coder
-**邮箱**: WorthingtonManchini533@outlook.com
