@@ -160,16 +160,3 @@ This project demonstrates skills relevant to international e-commerce algorithm 
 ## 📝 License
 
 MIT License - See LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-This project references architectures from:
-- NVIDIA Merlin Transformers4Rec
-- Tencent ESMM
-- Alibaba DIN
-- Google MMoE
-
----
-
-**Author**: fish-fly-coder
-**Email**: WorthingtonManchini533@outlook.com
